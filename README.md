@@ -3,8 +3,7 @@
 
 - 👋 Hi, I’m Beatriz Francisconi.
 - 👩🏾‍💻 I'm a Computer Science student at @unisuam (Centro Universitário Augusto Motta) and a self-taught web developer;
-- 💻 I’m currently learning Javascript/React.js/React Native;
-- 👀 I’m interested in finding an internship or a job as a frontend developer ^-^;
+- 💻 I’m currently working from home, but in my free time im always studying Javascript/React.js/React Native ^-^;
 - 📫 How to reach me: beafrancisconi@gmail.com
 <br>
 
