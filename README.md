@@ -23,8 +23,8 @@
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=javascript&logoColor=white&link=)]()
 [![Java Badge](https://img.shields.io/badge/Java-EA4335?style=flat-square-badge&logo=Java&logoColor=white&link=)]()
 [![React Badge](https://img.shields.io/badge/React-16A9F5?style=flat-square-badge&logo=React&logoColor=white&link=)]()
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white 
-https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div>
 
 
