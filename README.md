@@ -9,16 +9,15 @@
 
 <div style="display: inline_block" align="left">
   
-
- <img width="420px" src="https://github-readme-stats.vercel.app/api?username=beathedev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact">
+<!-- Top Lang    -->
+<img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beathedev&theme=gruvbox&show_icons=true" />
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beathedev&theme=gruvbox&show_icons=true)](https://github.com/beathedev/github-readme-stats)
+<!-- Stats  -->
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=beathedev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact">
   
-<!-- <img width="400px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=beathedev&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=11"> -->
 </div>
-
 <div style="display: inline_block" align="left">
-  
+ 
   <h4> My Stack ⌨🖱 </h4> 
   
 [![HTML5 Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square-badge&logo=html5&logoColor=white&link=)]()
@@ -29,6 +28,7 @@
 [![React Badge](https://img.shields.io/badge/React-16A9F5?style=flat-square-badge&logo=React&logoColor=white&link=)]()
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  
 </div>
 
 
