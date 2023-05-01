@@ -1,9 +1,9 @@
 
-<h4 align="center"> Front End Developer || Comp. Science Student</h4> 
+<h4 align="center"> Fullstack Developer || Comp. Science Student</h4> 
 
 - 👋 Hi, I’m Beatriz Francisconi.
 - 👩🏾‍💻 I'm a Computer Science student at @unisuam (Centro Universitário Augusto Motta) and a self-taught web developer;
-- 💻 In my free time im always studying Javascript/React.js/ React Native / Vue.js ^-^;
+- 💻 In my free time im always studying Python / Javascript/ React.js/ SQL ^-^;
 - 📫 How to reach me: beafrancisconi@gmail.com
 <br>
 
@@ -16,7 +16,7 @@
 <img width="420px" src="https://github-readme-stats.vercel.app/api?username=beathedev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact">
   
 </div>
-<div style="display: inline_block" align="left">
+<!-- <div style="display: inline_block" align="left">
  
   <h4> My Stack ⌨🖱 </h4> 
   
@@ -28,7 +28,7 @@
 [![React Badge](https://img.shields.io/badge/React-16A9F5?style=flat-square-badge&logo=React&logoColor=white&link=)]()
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  
+   -->
 </div>
 
 
